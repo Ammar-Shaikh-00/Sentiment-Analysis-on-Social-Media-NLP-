@@ -1,13 +1,15 @@
-Sentiment Analysis on Social Media (NLP)
+##Sentiment Analysis on Social Media (NLP)
+
 Project Overview
-This project performs sentiment analysis on social media text using Natural Language Processing (NLP) techniques. It follows a structured pipeline:
+
+This project aims to perform sentiment analysis on social media text using NLP techniques. The workflow includes data preprocessing, training a baseline model using TF-IDF and Logistic Regression, fine-tuning a pre-trained DistilBERT model, and deploying the model as an API using FastAPI.
 
 ✅ Data Preprocessing: Cleaning text (removing stopwords, URLs, emojis).
 ✅ Baseline Model: TF-IDF + Logistic Regression.
 ✅ Fine-tuning DistilBERT: Using Hugging Face Transformers.
 ✅ Deploying as an API: FastAPI-based real-time sentiment prediction.
 
-Dataset Selection & Loading
+##Dataset Selection & Loading
 We use the Twitter Sentiment Analysis Dataset from Kaggle.
 
 🔹 Download the Dataset
