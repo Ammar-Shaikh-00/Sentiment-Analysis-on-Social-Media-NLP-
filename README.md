@@ -1,4 +1,4 @@
-##Sentiment Analysis on Social Media (NLP)
+# Sentiment Analysis on Social Media (NLP)
 
 Project Overview
 
@@ -9,7 +9,7 @@ This project aims to perform sentiment analysis on social media text using NLP t
 ✅ Fine-tuning DistilBERT: Using Hugging Face Transformers.
 ✅ Deploying as an API: FastAPI-based real-time sentiment prediction.
 
-##Dataset Selection & Loading
+# Dataset Selection & Loading
 We use the Twitter Sentiment Analysis Dataset from Kaggle.
 
 🔹 Download the Dataset
